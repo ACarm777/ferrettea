@@ -1,0 +1,121 @@
+html
+{
+    background-color: #F5D0B4;
+}
+
+body
+{
+    background-color: #F5D0B4;
+}
+
+.montserrat 
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.titan-one-regular 
+{
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.encabezado
+{
+    font-family: 'Montserrat';
+    color: #F5D0B4;
+    font-weight: bold;
+}
+
+.sabores
+{
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: bold;
+    background-color: #91B6E1;
+    font-size: 2.5vw;
+    height: 5vw;
+    width: 20vw;
+    border-style: none;
+    border-radius: 40px;
+    transition: background-color 0.3s;
+}
+
+.sabores :hover
+{
+    box-shadow: 0 8px 16px 0 #6781a0;
+    background-color: #223C4B;
+}
+
+.titulo
+{
+    color: #DC6670;
+    font-family: "Titan One";
+    font-size: 3vw;
+}
+
+.textos
+{
+    color: #223C4B;
+    font-family: 'Montserrat';
+    font-size: 1.4vw;
+}
+
+.mas
+{
+    font-family: 'Montserrat';
+    color: #F9DE9A;
+    font-weight: bold;
+    background-color: #ED7F62;
+    font-size: 2.5vw;
+    height: 5vw;
+    width: 18vw;
+    border-style: none;
+    border-radius: 40px;
+    transition: background-color 0.3s;
+}
+.mas :hover
+{
+    box-shadow: 0 8px 16px 0 rgb(57, 57, 57);
+    background-color: #223C4B;
+}
+
+.fotTitulo
+{
+    font-family: "Titan One";
+    color: #F9DE9A;
+    font-size: 1.8vw;
+
+}   
+
+.fotTexto
+{
+    font-family: 'Montserrat';
+    color: #F5D0B4;
+    font-size: 1.3vw;
+    text-decoration: none;
+
+}   
+
+.menu
+{
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: bold;
+    background-color: #91B6E1;
+    font-size: 2.5vw;
+    height: 5vw;
+    width: 26vw;
+    border-style: none;
+    border-radius: 40px;
+    transition: background-color 0.3s;
+}
+
+.menu :hover
+{
+    box-shadow: 0 8px 16px 0 #6781a0;
+    background-color: #223C4B;
+}

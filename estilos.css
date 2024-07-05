@@ -1,0 +1,235 @@
+
+/* Media Queries Adaptación a Móvil  a 1040*/
+
+@media screen and (max-width:1040px){
+  
+    .espaciado
+{
+     padding-top: 0px;
+}
+    .espaciadomenu 
+{
+    padding-top: 120px;
+}
+.espaciadobotones 
+{
+    height: 80px;
+}
+.letrasobren 
+{
+    font-size: auto;
+}
+.titulos 
+{
+    font-size: auto;
+}
+.letrasmenu 
+{
+    font-size: auto;
+}
+.centradofooter 
+{
+    padding-left: 0px;
+}
+.titulosfoooter 
+{
+    font-size: auto;
+}
+.letrasfooter 
+{
+    font-size: auto;
+}
+.iconostam 
+{
+    height: 4vw;
+    width: auto;
+}
+.ferretic 
+{
+    height: 15vw;
+    width: auto;
+}
+.iconosmenu 
+{
+    height: 0.5vw;
+    width: auto
+}
+.especiatitulo 
+{
+    font-size: auto;
+} 
+.imgmenu 
+{
+    height: auto;
+}
+}
+/* Media Queries Adaptación a Móvil  a 990*/
+@media screen and (max-width:990px){
+    .espaciado
+{
+     padding-top: 20px;
+}
+.espaciadomenu 
+{
+    padding-top: 60px;
+}
+
+.espaciadobotones 
+{
+    height: 30px;
+}
+.letrasobren 
+{
+    font-size: 16px;
+}
+.titulos 
+{
+    font-size: 35px;
+}
+.especiatitulo 
+{
+    font-size: 35px;
+}
+.letrasmenu 
+{
+    font-size: 20px;
+}
+.centradofooter 
+{
+    padding-left: 0px;
+}
+.centradofooter 
+{
+    text-align: center;
+}
+.titulosfooter 
+{
+    font-size: 22px;
+}
+.letrasfooter 
+{
+    font-size: 15px;
+}
+.iconostam 
+{
+    height: 9vw;
+    width: auto;
+}
+.ferretic 
+{
+    height: 35vw;
+    width: auto;
+}
+.iconosmenu 
+{
+    height: 2vw;
+    width: auto
+}
+.imgmenu 
+{
+    height: auto;
+    width: auto;
+}
+}
+/*Media Queries Adaptación a Móvil  a 700*/
+@media screen and (max-width:700px) {
+ 
+    .letrasmenu 
+{
+    font-size: 15px;
+}
+.centradofooter 
+{
+    text-align: center;
+}
+.titulosfooter 
+{
+    font-size: 22px;
+}
+.letrasfooter 
+{
+    font-size: 15px;
+}
+.iconostam 
+{
+    height: 9vw;
+    width: auto;
+}
+.ferretic 
+{
+    height: 35vw;
+    width: auto;
+}
+.iconosmenu 
+{
+    height: 2vw;
+    width: auto
+}
+.imgmenu 
+{
+    height: 200px;
+    width: auto;
+}
+}
+/* Media Queries Adaptación a Móvil  a 600*/
+
+@media screen and (max-width:600px) {
+ 
+    .espaciado
+    {
+         padding-top: 20px;
+    }
+
+    .espaciadomenu 
+{
+    padding-top: 30px;
+}
+.espaciadobotones 
+{
+    height: 10px;
+}
+.letrasobren 
+{
+    font-size: 15px;
+}
+.titulos 
+{
+    font-size: 25px;
+}
+.especiatitulo 
+{
+    font-size: 25px;
+}
+.centradofooter 
+{
+    text-align: center;
+}
+.titulosfooter 
+{
+    font-size: 18px;
+}
+.letrasfooter 
+{
+    font-size: 12px;
+}
+.iconostam 
+{
+    height: 9vw;
+    width: auto;
+}
+.ferretic 
+{
+    height: 30vw;
+    width: auto;
+}
+.iconosmenu 
+{
+    height: 3vw;
+    width: auto
+}
+.imgmenu 
+{
+    width: 50px;
+    height: auto;
+}
+}

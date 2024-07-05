@@ -1,0 +1,19 @@
+.textos
+{
+    opacity: 1;
+}
+
+.menus
+{
+    opacity: 0; 
+}
+@media screen and (max-width: 1000px) {
+    .textos{
+        opacity: 0;
+    }
+    .menus
+{
+    opacity: 1; 
+}
+    
+}
